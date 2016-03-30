@@ -1,8 +1,8 @@
 
-	body {
-	   background-color:#F2F8F4;
-       margin-top: 100px;
-	}
+body {
+   background-color:#F2F8F4;
+   margin-top: 100px;
+}
     
     small {
         font-size:15px;
@@ -14,12 +14,6 @@
         width: 400px;
         padding: 10px 0px 0px 0px;
     }
-    .info-logo {
-        margin: auto;
-        width: 400px;
-        padding: 10px 0px 0px 0px;
-    }
-    
     .search_form {
 	   background-color:#FFF;
         margin: auto;
