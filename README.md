@@ -1,7 +1,7 @@
 Simple jQuery/PHP/MySQL Autocomplete
 =============
 
-A simple jQuery autocomplete script using jQuery, PHP, CSS and MySQL.
+A simple text field autocomplete script using jQuery, PHP, CSS and MySQL.
 
 Installation
 =============
